@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "APConnect"
-    s.version      = "1.0.2"
+    s.version      = "1.0.3"
     s.summary      = "A brief description of automatic-potato project."
     s.description  = <<-DESC
     An extended description of automatic-potato project.
